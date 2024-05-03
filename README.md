@@ -1,4 +1,4 @@
-## Oiii eu sou o Rafael Almeida, desenvolvedor Full Stack Pyrhon e gestor de tecnologia e inovação!
+## Oiii eu sou o Rafael Almeida, desenvolvedor Full Stack Python e gestor de tecnologia e inovação!
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramagla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramagla&layout=compact&langs_count=7&theme=dracula"/>
