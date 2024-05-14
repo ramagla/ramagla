@@ -28,6 +28,4 @@
   
 </div>
 
-<div>
-  ![snake_gif](https://github.com/ramagla/ramagla/blob/output/github-contribution-grid-snake.gif)
-</div>
+
