@@ -8,7 +8,8 @@ Transformando necessidades de neg&oacute;cio em solu&ccedil;&otilde;es tecnol&oa
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Almeida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dealmeida/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Almeida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dealmeidasilva/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Ver%20projetos-165445?style=for-the-badge&logo=vercel&logoColor=white)](https://portif-lio-iota-nine.vercel.app/)
 
 </div>
 
@@ -100,6 +101,7 @@ Minha experi&ecirc;ncia envolve ambientes Windows e Linux, Microsoft 365, Active
 
 ### Contato profissional
 
-[![LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dealmeida/)
+[![LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dealmeidasilva/)
+[![Portfólio](https://img.shields.io/badge/Conhecer%20meu%20portf%C3%B3lio-165445?style=flat-square&logo=vercel&logoColor=white)](https://portif-lio-iota-nine.vercel.app/)
 
 </div>
